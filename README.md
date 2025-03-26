@@ -5,7 +5,7 @@ A simple translator in command-line written in Lua.
 ## How to use?
 1. Install Lua
 2. Install Luarocks
-3. Install Lua modules
+3. Install required Lua modules
 4. Clone this repository
 5. Move main.lua to some directory bin
 6. Happy coding!
